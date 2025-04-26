@@ -2,5 +2,5 @@ gunicorn==20.1.0
 gradio==5.23.1
 browser-use==0.1.41
 playwright==1.51.0
-langchain-ollama==0.2.2
+langchain-ollama==0.3.0
 python-dotenv==1.0.0
